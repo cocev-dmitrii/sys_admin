@@ -1,4 +1,4 @@
-# sudo rm -rfv / --no-preserve-root -P 
+preview_deleted
 
 
 
